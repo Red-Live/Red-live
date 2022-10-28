@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Build commands live
 date: 2022-10-28T05:54:01.918Z
 description: "In Hugo, static files that don't need to be processed by the build
   commands live in the static/ directory. You'll install the Netlify CMS admin
